@@ -1,7 +1,4 @@
 ### Hello!! I'm Ana Beatriz de Almeida 👋
-<div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_cz1sqQJF.png">
- </div>
  
 - 🔭 I'm currently working in physics research and teaching.
 - 🌱 I'm currently learning full stack.
