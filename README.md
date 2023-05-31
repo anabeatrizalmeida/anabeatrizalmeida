@@ -1,18 +1,19 @@
 ### <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, eu sou a Ana Beatriz </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB7093&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+em+forma%C3%A7%C3%A3o;com+uma+quedinha+pelo+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB7093&center=true&vCenter=true&width=1000&lines=Dev+Front+End+e+UX+/+UI+Designer)](https://git.io/typing-svg)
 
-<img align="left" alt="Ana-pic" width="200px" height="200" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/263035_qdhdTvN1.png">
+<img align="left" alt="Ana-pic" width="200" height="200" style="border-radius:500px;" src="https://github.com/anabeatrizalmeida/anabeatrizalmeida/blob/main/perfilrosa.jpeg">
 
 <div>
 - Pode me chamar de Bia :smile: <br>
 - Me aventurando a cada dia mais pelo mundo da tecnologia. <br>
-- Formada Desenvolvedora FullStack pela Blue Edtech. <br>
-- Mestre em física aplicada. <br>
-- Apaixonada por ensinar. <br>
+- Desenvolvedora Front End. <br>
+- UX/UI Designer. <br>
+- Amo viajar <br>
 - Sou mãe babona da Luna, a buldogue francês mais fofa do universo.  <br>
 - Amo ciência, principalmente astronomia.  <br>
-- Atualmente desbravando UI/UX Design <br>
+- Adoro dançar.  <br>
+<br>
 </div>
 
 *******************
